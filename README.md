@@ -16,9 +16,21 @@ Testing focused on validating educational platform functionality, user interface
 
 ![Gallery Module](screenshots/gallery-module.png)
 
-### Admission Form Testing
+---
 
-![Admission Form](screenshots/admission-form.png)
+## Modules Tested
+
+* Gallery
+* Latest News
+* Admission Form
+* Centers
+* Profile
+
+---
+
+### Content Table 
+
+![Admission Form](https://github.com/Itsyashasvibhati/Educase-Mobile-Application-Testing/blob/393c54c2ce380d7aa23befda1d6de3ada15967f6/Educase3.png)
 
 ### Test Scenario Document
 
@@ -39,17 +51,7 @@ Testing focused on validating educational platform functionality, user interface
 ---
 
 
----
 
-## Modules Tested
-
-* Gallery
-* Latest News
-* Admission Form
-* Centers
-* Profile
-
----
 
 ## Testing Performed
 
