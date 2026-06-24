@@ -1,10 +1,16 @@
 # Educase Mobile Application Testing
 
+## Overview
+
+This repository contains complete Manual QA testing documentation for the Educase Mobile Application.
+
+Testing focused on validating educational platform functionality, user interface behavior, responsiveness, and data loading across key application modules.
+
 ## Screenshots
 
 ### Home Screen
 
-![Home Screen](screenshots/home-screen.png)
+![Home Screen](https://github.com/Itsyashasvibhati/Educase-Mobile-Application-Testing/blob/7c06617cb4c95542b72e9f4664a487b956512be2/Educase2.png)
 
 ### Gallery Module
 
@@ -32,11 +38,6 @@
 
 ---
 
-## Overview
-
-This repository contains complete Manual QA testing documentation for the Educase Mobile Application.
-
-Testing focused on validating educational platform functionality, user interface behavior, responsiveness, and data loading across key application modules.
 
 ---
 
