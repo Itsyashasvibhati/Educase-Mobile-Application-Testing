@@ -14,8 +14,7 @@ Testing focused on validating educational platform functionality, user interface
 
 ### Gallery Module
 
-![Gallery Module](screenshots/gallery-module.png)
-
+![Gallery Module](https://github.com/Itsyashasvibhati/Educase-Mobile-Application-Testing/blob/b64f8307294d47373bc547cc9487b8e43d9a3c9c/Educase1.png)
 ---
 
 ## Modules Tested
